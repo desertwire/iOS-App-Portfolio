@@ -64,8 +64,6 @@ struct StoryBrain {
             storyNumber = currentStory.choice2Destination
         }
     }
-    
-   
 }
 
 
